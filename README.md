@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Banner -->
+![Header Banner](images/banner.jpg)
 
-<!--
-**tejeshxdesigns/tejeshxdesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tejesh 👋  
 
-Here are some ideas to get you started:
+I design products and features that live in the real world and in your hands!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Specialties  
+- **UX/UI Design** – Wireframing, Interaction Design, Visual Systems  
+- **Research & Testing** – User Interviews, Usability Testing, Iterative Refinement  
+- **Tools:** Autodesk, Rhino, KeyShot, Blender, Figma, Adobe CC
