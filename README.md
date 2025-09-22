@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-# Hi, I'm Tejesh 👋  
+# Hi, I'm Tejesh Goregaonkar👋  
 
 I am a strategic designer and product expert fusing business strategy with technological solutions to create meaningful and emotionally engaging user experiences. I have led product strategy and design in both startups and major automotive companies, driving initiatives across physical and digital products.
 
